@@ -1,0 +1,6 @@
+{
+  "name": "Blush & Brew",
+  "description": "Premium digital menu and customer rewards loyalty program for Blush & Brew Cafe",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
